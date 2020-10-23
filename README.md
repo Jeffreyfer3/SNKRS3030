@@ -1,6 +1,6 @@
 ## Snkrs3030~Buy/Sell/Trade Sneakers and Streetwear
 
-### Welcome to @snkrs3030 IG over view page, providing you with the hottest sneakers and streetwear for you to purchase.
+## Welcome to @snkrs3030 IG over view page, providing you with the hottest sneakers and streetwear for you to purchase.
 
 ![Image](https://github.com/Jeffreyfer3/SNKRS3030/blob/main/SNKRS3030%20Logo.png?raw=true) 
 
@@ -8,9 +8,11 @@
 
 
 
-## [snkrs3030](https://www.instagram.com/snkrs3030/) Founded by [Jeffrey Fernandez] on July 19th, 2020. Motivated by friends and by his vast amount of free time, snkrs3030 was established as a side hussle and a way to pass time which slowly grew within the reselling community.
+# Foundation
+[snkrs3030](https://www.instagram.com/snkrs3030/) Founded by [Jeffrey Fernandez] on July 19th, 2020. Motivated by friends and by his vast amount of free time, snkrs3030 was established as a side hussle and a way to pass time which slowly grew within the reselling community.
 
-
+# Going through the Page
+![Image](file:///Users/jeffreyfer3/Desktop/Screen%20Shot%202020-10-23%20at%2010.28.10%20AM.png)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
