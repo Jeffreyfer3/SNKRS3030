@@ -2,7 +2,7 @@
 
 Welcome to @snkrs3030 IG over view page, providing you with the hottest sneakers and streetwear for you to purchase.
 
- [Snkrs3030](https://www.instagram.com/snkrs3030/) Founded by [Jeffrey Fernandez]
+ [Snkrs3030](https://www.instagram.com/snkrs3030/) Founded by [Jeffrey Fernandez] on July 19th, 2020. Motivated by friends and by his vast amount of free time, Snkrs3030 was established as a side hussle and a way to pass time which slowly grew within the reselling community.
 
 ### Markdown
 
