@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Snkrs3030 
 
-You can use the [editor on GitHub](https://github.com/Jeffreyfer3/SNKRS3030/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to @snkrs3030 IG over view page, providing you with the hottest sneakers and streetwear for you to purchase.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ [Snkrs3030](https://www.instagram.com/snkrs3030/) Founded by [Jeffrey Fernandez]
 
 ### Markdown
 
