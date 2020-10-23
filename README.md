@@ -15,22 +15,14 @@
 ![Image](https://github.com/Jeffreyfer3/SNKRS3030/blob/main/Screen%20Shot%202020-10-23%20at%2010.28.10%20AM.png)
 
 -Shoes will be consistently posted up on the feed of the instagram Page aswell as at times on the story for purchase, If a large scale story sale is taking place, A post with a description of the story sale will be posted up on the feed showing off which pairs will be going up for sale. Items are usually sold only a couple hours or days once they are posted so be quick!
--On the highlights of the Instagram page: We have highlights with the featured name "In Stock." Posted on those stories are items that are up on my page and still available for purchase.  
+
+-On the highlights of the Instagram page: We have highlights with the featured name "In Stock." Posted on those stories are items that are up on my page and still available for purchase. 
+
 -Other highlights are posted to show pairs sold, raffles that were previously hosted, positive reviews, mystery boxes, giveaways, and the hottest pairs ive been able to post on my page, each in their own distinctive highlight reels
+
 -In the Bio of the page is linked a direct line to my reference post, in which many people i have done buisness with comment positive reviews and give inputs on their experience with working with me. 
 
 
 
 
-[Link](url) and ![Image](https://github.com/Jeffreyfer3/SNKRS3030/blob/main/SNKRS3030%20Logo.png?raw=true)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jeffreyfer3/SNKRS3030/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
