@@ -1,6 +1,6 @@
-### Snkrs3030~Buy/Sell/Trade Sneakers and Streetwear
+## Snkrs3030~Buy/Sell/Trade Sneakers and Streetwear
 
-## Welcome to @snkrs3030 IG over view page, providing you with the hottest sneakers and streetwear for you to purchase.
+# Welcome to @snkrs3030 IG over view page, providing you with the hottest sneakers and streetwear for you to purchase.
 
 ![Image](https://github.com/Jeffreyfer3/SNKRS3030/blob/main/SNKRS3030%20Logo.png?raw=true) 
 
