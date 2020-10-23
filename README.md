@@ -1,10 +1,14 @@
 ## Snkrs3030 
 
 Welcome to @snkrs3030 IG over view page, providing you with the hottest sneakers and streetwear for you to purchase.
+![Image](https://github.com/Jeffreyfer3/SNKRS3030/blob/main/SNKRS3030%20Logo.png?raw=true) 
 
- [Snkrs3030](https://www.instagram.com/snkrs3030/) Founded by [Jeffrey Fernandez] on July 19th, 2020. Motivated by friends and by his vast amount of free time, Snkrs3030 was established as a side hussle and a way to pass time which slowly grew within the reselling community.
 
-### Markdown
+
+
+
+### M[Snkrs3030](https://www.instagram.com/snkrs3030/) Founded by [Jeffrey Fernandez] on July 19th, 2020. Motivated by friends and by his vast amount of free time, Snkrs3030 was established as a side hussle and a way to pass time which slowly grew within the reselling community.
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
